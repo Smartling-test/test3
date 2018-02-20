@@ -1,5 +1,6 @@
 {
   "test": "Test property",
   "property1": "Property one",
-  "property2": "Property two"
+  "property2": "Property two",
+  "property3": "Property three"
 }
