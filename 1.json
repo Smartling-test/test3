@@ -1,3 +1,4 @@
 {
-  "test": "Test property"
+  "test": "Test property",
+  "property1": "Property one"
 }
